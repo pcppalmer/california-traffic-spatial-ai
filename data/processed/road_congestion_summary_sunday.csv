@@ -1,0 +1,45 @@
+roadName,segment_count,avg_jamFactor,avg_speed_ratio,most_common_highway,congestion_labels
+Bush St/Market St,1,9.2,0.16666668,secondary,Congested
+4th St/5th St,1,8.5,0.2624999983125001,secondary,Congested
+Pine St,10,7.7700000000000005,0.35,secondary,Congested
+Mission St,21,4.5476190476190474,0.45022671224936145,residential,"Congested, Free Flowing, Moderate Flow"
+Broadway,3,3.7999999999999994,0.35294117771626293,tertiary,Moderate Flow
+Steuart St,3,3.466666666666667,0.4578431285767022,tertiary,"Congested, Moderate Flow"
+Howard St,21,3.461904761904762,0.47587610951100257,residential,"Congested, Free Flowing"
+Leavenworth St,12,3.25,0.551470594152249,tertiary,"Congested, Free Flowing, Moderate Flow"
+Hawthorne St,1,3.1,0.3333333333333333,secondary,Congested
+Market St/4th St/Ellis St,1,3.1,0.3157894667036014,tertiary,Congested
+Bay St,2,3.0,0.6363636314049589,tertiary,Moderate Flow
+Fremont St,3,2.9333333333333336,0.57407408,secondary,"Congested, Free Flowing"
+Clay St,6,2.7000000000000006,0.5454545826446288,tertiary,"Congested, Moderate Flow"
+1st St,8,2.5124999999999997,0.5451298903622877,secondary,"Congested, Free Flowing"
+Kearney St,3,2.4,0.6153846441420115,secondary,Moderate Flow
+Columbus Ave,2,2.4,0.5925926266666667,residential,Moderate Flow
+Market St,25,2.392,0.659514960939697,residential,"Congested, Free Flowing"
+Geary St,8,2.375,0.5060027358430194,secondary,"Congested, Free Flowing"
+Stockton St,37,2.189189189189189,0.6515051955773339,tertiary,"Congested, Free Flowing, Moderate Flow"
+Sutter St,6,2.1666666666666665,0.6578947301939061,tertiary,"Congested, Free Flowing, Moderate Flow"
+4th St,2,2.0,0.6888889129599995,secondary,"Congested, Free Flowing"
+Sansome St,9,1.9333333333333331,0.5836427305642435,tertiary,"Congested, Moderate Flow"
+Stockton St Tunnel,16,1.85,0.7826086976937618,tertiary,"Congested, Free Flowing, Moderate Flow"
+3rd St,3,1.8333333333333333,0.5536340932669644,secondary,"Congested, Free Flowing"
+New Montgomery St,5,1.6,0.8181818193719008,tertiary,"Congested, Free Flowing"
+Montgomery St,26,1.5923076923076922,0.7138404577755502,tertiary,"Congested, Free Flowing, Moderate Flow"
+Drumm St,13,1.3846153846153846,0.7591973237865349,tertiary,"Congested, Moderate Flow"
+Folsom St,9,1.3555555555555554,0.839947091239607,secondary,"Congested, Free Flowing"
+Kearny St,19,1.2,0.7189240440918063,secondary,"Free Flowing, Moderate Flow"
+Battery St,14,1.1857142857142855,0.7761904869327044,tertiary,"Congested, Free Flowing, Moderate Flow"
+Ofarrell St,2,1.0,0.5833333208333339,secondary,Free Flowing
+O'Farrell St,2,0.9,0.7232142748947711,secondary,Free Flowing
+Bush St,11,0.8545454545454546,0.768208412077562,secondary,"Congested, Free Flowing, Moderate Flow"
+2nd St,9,0.7444444444444445,0.7952213969105149,tertiary,"Congested, Free Flowing"
+Mason St,14,0.7428571428571429,0.8285714080000017,tertiary,"Free Flowing, Moderate Flow"
+Post St,4,0.675,0.804910699863043,living_street,"Congested, Free Flowing"
+Broadway St,1,0.5,0.7777778,tertiary,Moderate Flow
+Powell St,4,0.5,0.7777778,tertiary,Free Flowing
+Washington St,8,0.1,0.9133184453477096,tertiary,"Free Flowing, Moderate Flow"
+Grant Ave,4,0.1,0.9499999955000004,secondary,Free Flowing
+I-80 WESTBOUND,2,0.0,1.0,residential,Free Flowing
+Harrison St,4,0.0,1.0,tertiary,Free Flowing
+Embarcadero Ctr,2,0.0,0.9090909031404959,tertiary,Moderate Flow
+Montgomery St/Columbus Ave,2,0.0,1.0,tertiary,Moderate Flow

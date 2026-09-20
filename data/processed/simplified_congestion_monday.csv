@@ -1,0 +1,360 @@
+roadName,highway,jamFactor,speed_ratio,congestionLabel,kmeans_cluster
+2nd St,secondary_link,3.3,0.5,Moderate Flow,0
+Market St,secondary,0.0,0.9230769465088753,Congested,2
+Stockton St,tertiary,1.4,0.6250000140624992,Free Flowing,1
+Stockton St,busway,1.4,0.6250000140624992,Congested,2
+Stockton St,tertiary,1.4,0.6250000140624992,Free Flowing,1
+Stockton St,tertiary,1.4,0.6250000140624992,Free Flowing,1
+Stockton St,residential,1.4,0.6250000140624992,Congested,2
+Stockton St,residential,1.4,0.6250000140624992,Congested,2
+Stockton St,busway,1.4,0.6250000140624992,Congested,2
+Stockton St,tertiary,1.4,0.6250000140624992,Free Flowing,1
+Stockton St,secondary,0.0,0.8666666186666704,Congested,2
+Stockton St,residential,0.0,0.8666666186666704,Congested,2
+Stockton St,residential,0.0,0.8666666186666704,Congested,2
+Stockton St,tertiary,0.0,0.8666666186666704,Congested,2
+Howard St,secondary,2.7,0.5666666306666696,Moderate Flow,0
+Howard St,secondary,2.7,0.5666666306666696,Moderate Flow,0
+Ofarrell St,secondary,0.0,0.7499999625000018,Congested,2
+Ofarrell St,secondary,0.0,0.7499999625000018,Congested,2
+Market St,residential,0.9,0.7368420952908592,Congested,2
+Market St,residential,0.9,0.7368420952908592,Congested,2
+Market St,residential,0.9,0.7368420952908592,Congested,2
+Market St,residential,0.9,0.7368420952908592,Congested,2
+Market St,residential,0.9,0.7368420952908592,Congested,2
+Market St,tertiary,0.9,0.7368420952908592,Congested,2
+Market St,tertiary,0.9,0.7368420952908592,Congested,2
+Geary St,secondary,0.0,0.7857142746938779,Congested,2
+Montgomery St,secondary,4.0,0.3793103765041639,Moderate Flow,0
+Montgomery St,tertiary,4.0,0.3793103765041639,Free Flowing,1
+Montgomery St,tertiary,4.0,0.3793103765041639,Free Flowing,1
+Montgomery St,secondary,1.2,0.5999999520000038,Congested,2
+Montgomery St,secondary,1.2,0.5999999520000038,Congested,2
+Stockton St,secondary,0.6,0.8333332973333362,Congested,2
+Stockton St,secondary,0.6,0.8333332973333362,Congested,2
+Stockton St,residential,0.6,0.8333332973333362,Congested,2
+Market St,tertiary,1.4,0.545454548429752,Congested,2
+4th St,secondary,1.5,0.7037037333333332,Congested,2
+1st St,secondary,5.1,0.3749999812500009,Moderate Flow,0
+New Montgomery St,tertiary,3.3,0.636363645289256,Moderate Flow,0
+New Montgomery St,tertiary,3.3,0.636363645289256,Moderate Flow,0
+2nd St,secondary_link,0.0,1.0,Congested,2
+2nd St,secondary,0.0,1.0,Congested,2
+2nd St,tertiary,0.0,1.0,Congested,2
+2nd St,tertiary,0.0,1.0,Congested,2
+Battery St,secondary,1.4,0.7272727823140506,Free Flowing,1
+Battery St,tertiary,1.4,0.7272727823140506,Free Flowing,1
+4th St/5th St,secondary,8.8,0.21249999606250017,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,secondary,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,secondary,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,tertiary,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,tertiary,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Howard St,residential,4.0,0.4761905006802714,Moderate Flow,0
+Post St,tertiary,4.0,0.34999998200000143,Moderate Flow,0
+2nd St,secondary,0.0,1.0,Congested,2
+Montgomery St,residential,0.0,0.9499999640000028,Congested,2
+Montgomery St,tertiary,0.0,0.9499999640000028,Congested,2
+Montgomery St,tertiary,0.0,0.9499999640000028,Congested,2
+Embarcadero Ctr,tertiary,0.3,1.0,Free Flowing,1
+Broadway,tertiary,2.5,0.5294117559861593,Free Flowing,1
+Broadway,tertiary,2.5,0.5294117559861593,Free Flowing,1
+Broadway,unclassified,2.5,0.5294117559861593,Free Flowing,1
+Stockton St Tunnel,tertiary,1.8,0.6874999789062503,Free Flowing,1
+Stockton St Tunnel,tertiary,1.8,0.6874999789062503,Free Flowing,1
+Stockton St Tunnel,tertiary,1.8,0.6874999789062503,Free Flowing,1
+Stockton St Tunnel,tertiary_link,1.8,0.6874999789062503,Free Flowing,1
+Stockton St Tunnel,secondary,1.8,0.6874999789062503,Congested,2
+Stockton St Tunnel,residential,1.8,0.6874999789062503,Congested,2
+Stockton St Tunnel,residential,1.8,0.6874999789062503,Congested,2
+Stockton St Tunnel,secondary,1.8,0.6874999789062503,Congested,2
+Stockton St Tunnel,tertiary,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,tertiary,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,tertiary,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,residential,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,residential,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,secondary,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,tertiary,3.8,0.5217391474480149,Free Flowing,1
+Stockton St Tunnel,unclassified,3.8,0.5217391474480149,Free Flowing,1
+Howard St,secondary_link,3.0,0.5000000069230768,Moderate Flow,0
+Howard St,residential,3.0,0.5000000069230768,Moderate Flow,0
+Howard St,residential,3.0,0.5000000069230768,Moderate Flow,0
+Howard St,residential,3.0,0.5000000069230768,Moderate Flow,0
+O'Farrell St,secondary,3.1,0.4285714248979593,Moderate Flow,0
+3rd St,secondary,1.9,0.5999999820000015,Moderate Flow,0
+Kearney St,secondary,1.6,0.6923076848520711,Free Flowing,1
+Kearney St,secondary,1.6,0.6923076848520711,Free Flowing,1
+Kearney St,secondary_link,1.6,0.6923076848520711,Free Flowing,1
+Sansome St,secondary,5.1,0.20689657013079793,Moderate Flow,0
+Sansome St,tertiary,5.1,0.20689657013079793,Moderate Flow,0
+Sansome St,tertiary,5.1,0.20689657013079793,Moderate Flow,0
+Montgomery St,secondary,0.8,0.75,Congested,2
+Montgomery St,secondary,0.8,0.75,Congested,2
+Montgomery St,tertiary,0.0,0.6999999640000029,Congested,2
+Montgomery St,tertiary,0.0,0.6999999640000029,Congested,2
+Montgomery St,tertiary,0.0,0.6999999640000029,Congested,2
+Montgomery St,secondary,0.6,0.7333332853333371,Congested,2
+Market St,secondary,8.5,0.26315790470914086,Moderate Flow,0
+Washington St,secondary,0.0,1.0,Congested,2
+Washington St,tertiary,0.0,1.0,Free Flowing,1
+Drumm St,tertiary,2.5,0.6818182487603318,Free Flowing,1
+Drumm St,tertiary,2.5,0.6818182487603318,Free Flowing,1
+Drumm St,tertiary,2.5,0.6818182487603318,Free Flowing,1
+Drumm St,tertiary,2.5,0.6818182487603318,Free Flowing,1
+Drumm St,secondary,2.5,0.6818182487603318,Free Flowing,1
+Pine St,secondary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,secondary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,tertiary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,tertiary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,secondary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,tertiary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,secondary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,secondary,3.1,0.4814814933333333,Free Flowing,1
+Pine St,tertiary,3.1,0.4814814933333333,Free Flowing,1
+Sansome St,secondary,3.1,0.20833333958333303,Moderate Flow,0
+Kearny St,residential,0.5,0.8275863053507797,Congested,2
+Kearny St,residential,0.5,0.8275863053507797,Congested,2
+Kearny St,secondary,0.5,0.8275863053507797,Congested,2
+Kearny St,residential,0.5,0.8275863053507797,Congested,2
+Kearny St,secondary,0.5,0.8275863053507797,Congested,2
+Market St,"['tertiary', 'tertiary_link']",5.1,0.29999998200000144,Moderate Flow,0
+Market St,tertiary,5.1,0.29999998200000144,Moderate Flow,0
+Market St,secondary,1.8,0.6190476165986395,Congested,2
+Stockton St,tertiary,0.0,0.8124999732812515,Congested,2
+Stockton St,secondary,0.0,0.8124999732812515,Congested,2
+Bush St,secondary,5.1,0.22222222666666666,Moderate Flow,0
+Bush St,tertiary,5.1,0.22222222666666666,Moderate Flow,0
+Bush St,secondary,5.1,0.22222222666666666,Moderate Flow,0
+Market St,tertiary,5.1,0.2000000086399997,Moderate Flow,0
+Market St,tertiary,5.1,0.2000000086399997,Moderate Flow,0
+Market St,residential,5.1,0.2000000086399997,Moderate Flow,0
+Market St,residential,5.1,0.2000000086399997,Moderate Flow,0
+Market St,secondary,5.1,0.2000000086399997,Moderate Flow,0
+Market St,residential,5.1,0.2000000086399997,Moderate Flow,0
+New Montgomery St,secondary,0.0,1.0,Congested,2
+Geary St,secondary,5.1,0.2,Moderate Flow,0
+Geary St,tertiary,5.1,0.2,Moderate Flow,0
+Geary St,tertiary,5.1,0.2,Moderate Flow,0
+Market St,tertiary,1.7,0.5999999520000038,Free Flowing,1
+Market St,secondary,1.7,0.5999999520000038,Congested,2
+Leavenworth St,tertiary,1.6,0.647058822283737,Congested,2
+Leavenworth St,tertiary,1.6,0.647058822283737,Congested,2
+Leavenworth St,secondary,1.6,0.647058822283737,Congested,2
+New Montgomery St,tertiary,1.9,0.5882353314878886,Moderate Flow,0
+New Montgomery St,tertiary,1.9,0.5882353314878886,Moderate Flow,0
+Grant Ave,secondary,0.0,1.0,Congested,2
+Mission St,secondary,3.1,0.3235293974394472,Moderate Flow,0
+Market St,secondary,2.7,0.2413793338882299,Moderate Flow,0
+Post St,living_street,0.0,1.0,Congested,2
+Powell St,tertiary,0.0,0.8333334000000001,Congested,2
+Powell St,tertiary,0.0,0.8333334000000001,Congested,2
+Powell St,tertiary,0.0,0.8333334000000001,Congested,2
+Powell St,tertiary,0.0,0.8333334000000001,Congested,2
+Stockton St,secondary,2.3,0.7058823766089961,Congested,2
+Stockton St,tertiary,2.3,0.7058823766089961,Congested,2
+Stockton St,tertiary,2.3,0.7058823766089961,Congested,2
+Stockton St,residential,2.3,0.7058823766089961,Congested,2
+Stockton St,tertiary,2.3,0.7058823766089961,Congested,2
+Stockton St,tertiary,2.3,0.7058823766089961,Congested,2
+Stockton St,secondary,2.3,0.7058823766089961,Congested,2
+Hawthorne St,secondary,3.1,0.2857142832653062,Moderate Flow,0
+O'Farrell St,secondary,0.0,1.0,Congested,2
+Mission St,secondary_link,3.1,0.3157894667036014,Moderate Flow,0
+Mission St,residential,3.1,0.3157894667036014,Moderate Flow,0
+Mission St,residential,3.1,0.3157894667036014,Moderate Flow,0
+Mission St,residential,3.1,0.3157894667036014,Moderate Flow,0
+Geary St,secondary,0.5,0.6923076752662727,Congested,2
+Stockton St,tertiary,2.3,0.6451612753381909,Free Flowing,1
+Stockton St,busway,2.3,0.6451612753381909,Congested,2
+Stockton St,busway,2.3,0.6451612753381909,Congested,2
+Stockton St,tertiary,2.3,0.6451612753381909,Free Flowing,1
+Stockton St,tertiary,2.3,0.6451612753381909,Free Flowing,1
+Stockton St,tertiary,2.3,0.6451612753381909,Free Flowing,1
+Battery St,residential,3.0,0.44444446,Moderate Flow,0
+Battery St,tertiary,3.0,0.44444446,Free Flowing,1
+Battery St,tertiary,3.0,0.44444446,Free Flowing,1
+Montgomery St/Columbus Ave,tertiary,1.5,0.6666666666666666,Free Flowing,1
+Montgomery St/Columbus Ave,tertiary,1.5,0.6666666666666666,Free Flowing,1
+I-80 WESTBOUND,residential,0.0,1.0,Congested,2
+I-80 WESTBOUND,residential,0.0,1.0,Congested,2
+Post St,secondary,0.0,0.9285714248979593,Congested,2
+Post St,living_street,0.0,0.9285714248979593,Congested,2
+Steuart St,tertiary,1.3,0.647058822283737,Free Flowing,1
+Steuart St,tertiary,1.3,0.647058822283737,Free Flowing,1
+Kearny St,tertiary,0.0,0.8421052761218831,Congested,2
+Kearny St,tertiary,0.0,0.8421052761218831,Congested,2
+Kearny St,secondary,0.0,0.8421052761218831,Congested,2
+Kearny St,residential,0.0,0.8421052761218831,Congested,2
+4th St,secondary,5.1,0.319999999424,Moderate Flow,0
+Folsom St,secondary,3.1,0.32142856224489824,Moderate Flow,0
+Steuart St,secondary,2.7,0.5499999640000028,Moderate Flow,0
+Bush St/Market St,secondary,3.1,0.33333334,Moderate Flow,0
+Bush St,secondary,1.0,0.8787877862258987,Congested,2
+Mason St,tertiary,0.0,0.8181818062809919,Congested,2
+Mason St,tertiary,0.0,0.8181818062809919,Congested,2
+Mason St,tertiary,0.0,0.8181818062809919,Congested,2
+Mason St,busway,0.0,0.8181818062809919,Congested,2
+Mason St,busway,0.0,0.8181818062809919,Congested,2
+Mason St,tertiary,0.0,0.8181818062809919,Congested,2
+Sutter St,tertiary,2.8,0.47368419058171835,Free Flowing,1
+Sutter St,tertiary_link,2.8,0.47368419058171835,Free Flowing,1
+Sutter St,secondary,2.8,0.47368419058171835,Moderate Flow,0
+Kearny St,secondary,2.4,0.4666666426666685,Free Flowing,1
+Market St/4th St/Ellis St,tertiary,3.1,0.26315790470914086,Moderate Flow,0
+Kearny St,secondary,1.4,0.7142857510204071,Congested,2
+Kearny St,secondary,1.4,0.7142857510204071,Congested,2
+Geary St,secondary,0.0,1.0,Congested,2
+Folsom St,residential,0.0,0.8749999746875015,Congested,2
+Folsom St,residential,0.0,0.8749999746875015,Congested,2
+Folsom St,secondary,0.0,0.8749999746875015,Congested,2
+Howard St,residential,0.0,0.882352997231833,Congested,2
+Howard St,residential,0.0,0.882352997231833,Congested,2
+Howard St,secondary,0.0,0.882352997231833,Congested,2
+Geary St,secondary,3.1,0.319999999424,Moderate Flow,0
+Geary St,secondary,3.1,0.319999999424,Moderate Flow,0
+Battery St,busway,5.1,0.3333333333333333,Moderate Flow,0
+Battery St,secondary,5.1,0.3333333333333333,Moderate Flow,0
+Howard St,secondary,3.1,0.3333333333333333,Moderate Flow,0
+Embarcadero Ctr,tertiary,0.0,1.0,Free Flowing,1
+Clay St,secondary,1.1,0.7272727823140506,Congested,2
+Clay St,tertiary,1.1,0.7272727823140506,Free Flowing,1
+Clay St,tertiary,1.1,0.7272727823140506,Free Flowing,1
+Clay St,tertiary,1.1,0.7272727823140506,Free Flowing,1
+Clay St,residential,1.1,0.7272727823140506,Congested,2
+Clay St,tertiary,1.1,0.7272727823140506,Free Flowing,1
+Mission St,residential,2.1,0.5624999676562519,Moderate Flow,0
+Mission St,residential,2.1,0.5624999676562519,Moderate Flow,0
+Mission St,residential,2.1,0.5624999676562519,Moderate Flow,0
+Mission St,tertiary,2.1,0.5624999676562519,Moderate Flow,0
+Mission St,tertiary,2.1,0.5624999676562519,Moderate Flow,0
+2nd St,tertiary,3.5,0.3999999820000014,Moderate Flow,0
+2nd St,tertiary,3.5,0.3999999820000014,Moderate Flow,0
+Sutter St,secondary,1.9,0.5789473524653747,Free Flowing,1
+1st St,secondary_link,2.1,0.5909091161983475,Moderate Flow,0
+1st St,secondary,2.1,0.5909091161983475,Moderate Flow,0
+1st St,tertiary,2.1,0.5909091161983475,Moderate Flow,0
+1st St,tertiary,2.1,0.5909091161983475,Moderate Flow,0
+Drumm St,tertiary,3.3,0.608695658979206,Free Flowing,1
+Drumm St,tertiary,3.3,0.608695658979206,Free Flowing,1
+Drumm St,tertiary,3.3,0.608695658979206,Free Flowing,1
+Drumm St,tertiary,3.3,0.608695658979206,Free Flowing,1
+Drumm St,secondary,3.3,0.608695658979206,Free Flowing,1
+Drumm St,tertiary,3.3,0.608695658979206,Free Flowing,1
+Columbus Ave,residential,2.4,0.5925926266666667,Free Flowing,1
+Columbus Ave,tertiary,2.4,0.5925926266666667,Free Flowing,1
+Kearny St,secondary,0.0,1.0,Congested,2
+Kearny St,tertiary,0.0,1.0,Free Flowing,1
+Washington St,tertiary,1.2,0.7500000000000001,Free Flowing,1
+1st St,secondary,0.5,0.7333332853333371,Congested,2
+Washington St,secondary,1.9,0.5624999676562519,Free Flowing,1
+Washington St,tertiary,1.9,0.5624999676562519,Free Flowing,1
+Washington St,tertiary,1.9,0.5624999676562519,Free Flowing,1
+Washington St,tertiary,1.9,0.5624999676562519,Free Flowing,1
+Washington St,tertiary,1.9,0.5624999676562519,Free Flowing,1
+Drumm St,tertiary,0.0,1.0,Free Flowing,1
+Kearny St,tertiary,2.4,0.5263158094182817,Free Flowing,1
+Battery St,tertiary,3.1,0.3157894667036014,Free Flowing,1
+Bay St,tertiary,2.5,0.6969696837465569,Free Flowing,1
+Bay St,unclassified,2.5,0.6969696837465569,Free Flowing,1
+Howard St,secondary,8.5,0.2799999976960001,Moderate Flow,0
+Bush St,secondary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,secondary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,tertiary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,tertiary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,tertiary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,tertiary,3.6,0.5263158094182817,Free Flowing,1
+Bush St,residential,3.6,0.5263158094182817,Moderate Flow,0
+Folsom St,secondary_link,0.0,1.0,Congested,2
+Folsom St,secondary,0.0,1.0,Congested,2
+Folsom St,tertiary,0.0,1.0,Congested,2
+Folsom St,tertiary,0.0,1.0,Congested,2
+Montgomery St,tertiary,2.2,0.6428571244897965,Free Flowing,1
+Montgomery St,secondary,2.2,0.6428571244897965,Free Flowing,1
+Montgomery St,secondary,2.2,0.6428571244897965,Free Flowing,1
+Montgomery St,tertiary,2.2,0.6428571244897965,Free Flowing,1
+Montgomery St,tertiary,2.2,0.6428571244897965,Free Flowing,1
+Market St,tertiary,3.5,0.3749999859375008,Moderate Flow,0
+Market St,secondary,3.5,0.3749999859375008,Moderate Flow,0
+Market St,secondary,3.5,0.3749999859375008,Moderate Flow,0
+Drumm St,tertiary,0.0,0.88888894,Free Flowing,1
+Montgomery St,tertiary,0.0,1.0,Congested,2
+Montgomery St,secondary,0.0,1.0,Congested,2
+Leavenworth St,tertiary,2.1,0.6666667000000001,Free Flowing,1
+Leavenworth St,busway,2.1,0.6666667000000001,Congested,2
+Leavenworth St,tertiary,2.1,0.6666667000000001,Free Flowing,1
+Leavenworth St,tertiary,2.1,0.6666667000000001,Free Flowing,1
+Leavenworth St,residential,2.1,0.6666667000000001,Congested,2
+Leavenworth St,residential,2.1,0.6666667000000001,Congested,2
+Leavenworth St,busway,2.1,0.6666667000000001,Congested,2
+Leavenworth St,tertiary,2.1,0.6666667000000001,Free Flowing,1
+Leavenworth St,secondary,2.1,0.6666667000000001,Congested,2
+3rd St,secondary,1.9,0.6190476165986395,Congested,2
+1st St,secondary,1.4,0.5714285751020407,Moderate Flow,0
+1st St,busway,1.4,0.5714285751020407,Moderate Flow,0
+Grant Ave,tertiary,0.0,1.0,Congested,2
+Grant Ave,secondary,0.0,1.0,Congested,2
+Grant Ave,secondary,0.0,1.0,Congested,2
+Sansome St,tertiary,1.5,0.6315789523545705,Free Flowing,1
+Folsom St,secondary,7.1,0.2380952503401357,Moderate Flow,0
+Kearny St,secondary,0.0,1.0,Congested,2
+Kearny St,tertiary,0.0,1.0,Congested,2
+Mission St,tertiary,3.3,0.5999999520000038,Free Flowing,1
+Mission St,unclassified,3.3,0.5999999520000038,Free Flowing,1
+Montgomery St,tertiary,0.7,0.8000000345599988,Free Flowing,1
+Montgomery St,secondary,0.7,0.8000000345599988,Free Flowing,1
+Montgomery St,secondary,0.7,0.8000000345599988,Free Flowing,1
+Montgomery St,tertiary,0.7,0.8000000345599988,Free Flowing,1
+Montgomery St,tertiary,0.7,0.8000000345599988,Free Flowing,1
+Mission St,"['tertiary', 'tertiary_link']",5.1,0.2941176657439443,Moderate Flow,0
+Mission St,tertiary,5.1,0.2941176657439443,Moderate Flow,0
+Mission St,secondary,3.1,0.34615384242603553,Moderate Flow,0
+Mission St,tertiary,3.1,0.34615384242603553,Moderate Flow,0
+Mission St,tertiary,3.1,0.34615384242603553,Moderate Flow,0
+Mission St,secondary,3.1,0.34615384242603553,Moderate Flow,0
+Mission St,residential,3.1,0.34615384242603553,Moderate Flow,0
+Stockton St,tertiary,0.0,0.8749999746875015,Congested,2
+Stockton St,tertiary,0.0,0.8749999746875015,Congested,2
+Stockton St,tertiary,0.0,0.8749999746875015,Congested,2
+Broadway St,tertiary,0.7,0.7777778,Free Flowing,1
+Battery St,tertiary,1.8,0.61111112,Free Flowing,1
+Battery St,tertiary,1.8,0.61111112,Free Flowing,1
+Battery St,tertiary,1.8,0.61111112,Free Flowing,1
+Battery St,secondary,1.8,0.61111112,Free Flowing,1
+Battery St,tertiary,1.8,0.61111112,Free Flowing,1
+Mission St,secondary,3.1,0.31250002109374975,Moderate Flow,0
+Mission St,residential,3.1,0.31250002109374975,Moderate Flow,0
+Sutter St,tertiary,0.0,1.0,Congested,2
+Sutter St,tertiary,0.0,1.0,Congested,2
+Sansome St,residential,3.2,0.4545454991735545,Free Flowing,1
+Sansome St,tertiary,3.2,0.4545454991735545,Free Flowing,1
+Sansome St,tertiary,3.2,0.4545454991735545,Free Flowing,1
+Sansome St,tertiary,3.2,0.4545454991735545,Free Flowing,1
+Pine St,secondary,3.4,0.45833331708333414,Moderate Flow,0
+Battery St,secondary,0.0,0.9090909685950405,Congested,2
+Stockton St,tertiary,0.2,0.8333333583333321,Congested,2
+Stockton St,tertiary,0.2,0.8333333583333321,Congested,2
+Stockton St,secondary,0.2,0.8333333583333321,Congested,2
+Stockton St,residential,0.2,0.8333333583333321,Congested,2
+Kearny St,secondary,0.0,0.8666666186666704,Congested,2
+Kearny St,secondary,0.0,0.8666666186666704,Congested,2
+Fremont St,secondary,0.0,1.0,Congested,2
+Fremont St,busway,0.0,1.0,Congested,2
+2nd St,secondary,2.3,0.6000000259199991,Moderate Flow,0
+Fremont St,secondary,4.8,0.5,Moderate Flow,0
+Harrison St,secondary_link,2.9,0.47368419058171835,Moderate Flow,0
+Harrison St,secondary,2.9,0.47368419058171835,Moderate Flow,0
+Harrison St,tertiary,2.9,0.47368419058171835,Moderate Flow,0
+Harrison St,tertiary,2.9,0.47368419058171835,Moderate Flow,0
+Mason St,tertiary,0.0,1.0,Congested,2
+Mason St,busway,0.0,1.0,Congested,2
+Mason St,tertiary,0.0,1.0,Congested,2
+Mason St,tertiary,0.0,1.0,Congested,2
+Mason St,residential,0.0,1.0,Congested,2
+Mason St,residential,0.0,1.0,Congested,2
+Mason St,busway,0.0,1.0,Congested,2
+Mason St,tertiary,0.0,1.0,Congested,2
+3rd St,secondary,0.0,1.0,Congested,2

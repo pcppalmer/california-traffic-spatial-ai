@@ -1,0 +1,10 @@
+highway,segment_count,avg_jamFactor,avg_speed_ratio,most_common_congestion
+"tertiary, tertiary_link",2,8.4,0.2970588238719729,Congested
+unclassified,4,3.275,0.555297217793853,Moderate Flow
+secondary,116,2.503448275862069,0.6228407528033064,Congested
+busway,13,2.1153846153846154,0.6674051609046029,Congested
+residential,56,2.0339285714285715,0.6627936438205013,Congested
+secondary_link,8,1.9625,0.6625151292283933,Congested
+tertiary,156,1.8987179487179486,0.7017689596119959,Moderate Flow
+tertiary_link,2,1.55,0.7368420952908592,Moderate Flow
+living_street,2,1.0,0.7455356962771056,Congested
