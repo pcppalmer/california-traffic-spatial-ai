@@ -4,7 +4,9 @@
 
 This project explores how geospatial data, machine learning, and large language models can be combined to detect and interpret urban traffic congestion patterns. Real-time traffic flow data from the HERE Traffic API was enriched with OpenStreetMap roadway information, transformed into congestion features, and analyzed using unsupervised machine learning.
 
-The analysis focuses on **downtown San Francisco**, comparing traffic conditions during a Monday peak period and Sunday off-peak period.
+The analysis focuses on downtown San Francisco, comparing traffic conditions during a Monday peak period and Sunday off-peak period.
+
+python, machine-learning, geospatial, spatial-data-science, traffic-analysis, geopandas, osmnx, scikit-learn, openstreetmap, unsupervised-learning
 
 ![Monday peak-period congestion clustering](images/folium_map_monday.png)
 
