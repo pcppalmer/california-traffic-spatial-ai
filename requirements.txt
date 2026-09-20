@@ -1,0 +1,9 @@
+folium
+geopandas
+numpy
+osmnx
+pandas
+requests
+scikit-learn
+shapely
+branca
