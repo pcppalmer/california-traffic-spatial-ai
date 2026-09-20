@@ -6,7 +6,7 @@ This project explores how geospatial data, machine learning, and large language 
 
 The analysis focuses on downtown San Francisco, comparing traffic conditions during a Monday peak period and Sunday off-peak period.
 
-python, machine-learning, geospatial, spatial-data-science, traffic-analysis, geopandas, osmnx, scikit-learn, openstreetmap, unsupervised-learning
+`Python`, `Machine-learning`, `Geospatial`, `Spatial Data Science`, `Traffic Analysis`, `Geopandas`, `osmnx`, `scikit-learn`, `openstreetmap`, `Unsupervised Learning`
 
 ![Monday peak-period congestion clustering](images/folium_map_monday.png)
 
