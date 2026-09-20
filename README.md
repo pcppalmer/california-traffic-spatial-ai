@@ -240,7 +240,7 @@ california-traffic-spatial-ai/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/california-traffic-spatial-ai.git
+git clone https://github.com/pcppalmer/california-traffic-spatial-ai.git
 cd california-traffic-spatial-ai
 ```
 
